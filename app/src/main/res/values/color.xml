@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_bg">#FBFAFB</color>
+    <color name="background">#2E4256</color>
+    <color name="line_bg">#DEE0E1</color>
+    <color name="green">#00897b</color>
+    <color name="red">#e53935</color>
+    <color name="default_icon">#B3B3B3</color>
+</resources>
